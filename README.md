@@ -13,9 +13,8 @@ This repository contains an introduction to React concepts, hooks, state managem
 6. [Styling](#styling)
 7. [Performance Optimization](#performance-optimization)
 8. [Data Fetching](#data-fetching)
-9. [Testing](#testing)
-10. [Advanced Topics](#advanced-topics)
-11. [Best Practices](#best-practices)
+9.[Advanced Topics](#advanced-topics)
+10. [Best Practices](#best-practices)
 
 ---
 
@@ -87,14 +86,6 @@ React provides tools to enhance performance:
 Fetching and managing external data is crucial in React:
 - Use **fetch** or **axios** to retrieve data from APIs.
 - Manage loading, error, and success states effectively.
-
----
-
-## Testing
-
-Testing ensures the reliability of your components:
-- **Jest**: A popular testing framework for unit and integration tests.
-- **React Testing Library**: Write tests for components, focusing on user interactions and the DOM.
 
 ---
 
